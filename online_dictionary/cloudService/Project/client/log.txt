@@ -1,0 +1,11 @@
+[(1) 2018/08/14 02:56:54]	good|adj.  of high quality; of an acceptable standard; satisfactory
+[(2) 2018/08/14 02:57:01]	big|adj.  large in size, extent or intensity
+[(3) 2018/08/14 02:57:07]	quit|v.  go away from (a place); leave
+[(4) 2018/08/14 02:57:42]	write|v.  make letters or other symbols on a surface (usu paper), esp with a pen or pencil
+[(5) 2018/08/14 02:59:43]	read|v. (used in the simple tenses or with can/be able , can/be able) (be able to) understand the meaning of (written or printed words or symbols)
+[(6) 2018/08/14 03:02:10]	tree|n.  large long-lasting type of plant, having a thick central wooden stem (the trunk) from which wooden branches grow, usu bearing leaves
+[(7) 2018/08/20 01:42:35]	word|n.  sound or combination of sounds that expresses a meaning and forms an independent unit of the grammar or vocabulary of a language
+[(8) 2018/08/20 01:43:05]	move|n.  change of place or position
+[(9) 2018/09/07 18:04:08]	word|n.  sound or combination of sounds that expresses a meaning and forms an independent unit of the grammar or vocabulary of a language
+[(10) 2018/11/20 14:37:41]	hello|= hallo
+[(11) 2018/11/20 14:37:54]	good|adj.  of high quality; of an acceptable standard; satisfactory

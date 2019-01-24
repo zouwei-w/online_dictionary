@@ -1,0 +1,3 @@
+运行服务器端程序:
+
+./server_system ip port user_word.db
